@@ -47,15 +47,3 @@ Refer to the Quota Details Popup Fix \[Prototype Only\]_HowToSteps_vNN.pdf docum
 
 ## Disclaimer
 This is not an officially supported solution by ServiceNow.
-
-
-## Authors
-
-* Annie Chan
-
-
-## Maintainers/Sponsors
-
-Current maintainers:
-
-* [Annie Chan](https://github.com/sn-achan)
